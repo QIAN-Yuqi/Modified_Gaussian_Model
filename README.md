@@ -12,7 +12,7 @@ This directory contains a few python scripts to generate the startup and asc fil
 
 ### Example of startup file
 <pre><code>
-:\                                   [directory name; this is for mac, unix would be "/."]  
+:                                   [directory name; this is for mac, unix would be "/."]  
 exampledata                         [ascii file]  
 -170,25,10                          [ymin, ymax, yint for plots]  
 600,1700,1                          [xmin, xmax, xint for plots]  
