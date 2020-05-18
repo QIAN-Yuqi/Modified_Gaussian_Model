@@ -11,7 +11,7 @@ This directory contains the MGM Matlab code from its original source.
 This directory contains a few python scripts to generate the startup and asc files needed as input to MGM.
 
 ### Example of startup file
-:                                   [directory name; this is for mac, unix would be "/."]
+:                                   [directory name; this is for mac, unix would be "/."]\n
 exampledata                         [ascii file]
 -170,25,10                          [ymin, ymax, yint for plots]
 600,1700,1                          [xmin, xmax, xint for plots]
