@@ -1,4 +1,4 @@
-# Modified Gaussin Model (MGM)
+## Modified Gaussin Model (MGM)
 The original MGM software is from http://www.planetary.brown.edu/mgm/
 
 ### Original repository
