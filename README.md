@@ -1,8 +1,8 @@
 ## Modified Gaussin Model (MGM)
-The original software is from http://www.planetary.brown.edu/mgm/ (Brown University)
+The original software is from Brown University (http://www.planetary.brown.edu/mgm/)
 
 ### Original repository
-The original repository is from https://github.com/clegett/mgm (Chip Legett)
+The original repository is from Chip Legett (https://github.com/clegett/mgm)
 
 ### Matlab directory
 This directory contains the MGM Matlab code from its original source.
